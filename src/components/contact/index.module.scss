@@ -110,7 +110,7 @@
     }
     &_input {
         &__field {
-            border: 1px solid #dee2e6;
+            border: 1px solid $primary;
             font-family: $yantramanav;
             font-size: 16px;
             padding: 15px;
@@ -120,7 +120,7 @@
     }
     &_textarea {
         &__field {
-            border: 1px solid #dee2e6;
+            border: 1px solid $primary;
             font-family: $yantramanav;
             font-size: 16px;
             padding: 15px;

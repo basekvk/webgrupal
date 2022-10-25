@@ -6,7 +6,7 @@ pattern: '/images/contact/pattern.png'
 patternAlt: 'Contacto Grupal SL'
 subTitle: 'Quieres consultar un presupuesto'
 title: 'Contacta con nosotros'
-desc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features..'
+desc: 'Si quieres pedir un presupuesto o simplemente realizarnos alguna consulta o solucionar alguna duda rellena el formulario y envianoslo. Estaremos encantados de atenderte'
 addressTitle: 'Dirección Oficina'
 addressDesc: 'Calle Málaga 4, Nave 39.
  28343, Valdemoro, Madrid
@@ -45,7 +45,7 @@ infoList:
 btnText: 'Enviar'
 formTitle: 'DEJA TU MENSAJE
 '
-formDesc: 'Empresa poceros en Madrid con más de 25 años de experiencia. Calidad al mejor precio'
+formDesc: 'Estamos encantados de ayudarte. Rellena el formulario y te contestaremos en el menor tiempo posible'
 mapPattern: '/images/contact/pattern.png'
 mapPatternAlt: 'Map Pattern'
 ---

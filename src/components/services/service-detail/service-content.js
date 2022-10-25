@@ -3,6 +3,7 @@ import { Col } from 'react-bootstrap';
 import RichText from '../../rich-text';
 import classes from './index.module.scss';
 import OurServices from './our-services';
+import BotonLlamada from './../../botonllamada/BotonLlamada';
 
 function ServiceContent({ service, richTexts, ourServices }) {
     const imagePath = `/images/services/${service?.slug}/${service?.largeImage}`;
@@ -37,6 +38,7 @@ function ServiceContent({ service, richTexts, ourServices }) {
             </div>
 
             <OurServices ourServices={ourServices} />
+            <BotonLlamada />
         </Col>
     );
 }

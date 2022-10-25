@@ -67,6 +67,7 @@ function ProjectContent({ project, richTexts, projectsOverview }) {
             <RichText richTexts={richTexts} />
             <ProjectOverview projectsOverview={projectsOverview} />
         </Col>
+        
     );
 }
 
