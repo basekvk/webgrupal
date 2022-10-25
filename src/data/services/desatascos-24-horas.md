@@ -14,16 +14,9 @@ descripcion: 'Cómo Poceros en Madrid realizamos todo tipo de Desatasco, Desatra
 Tenemos una cuadrilla de Poceros en Madrid para atender todo tipo de Urgencias las 24 horas del Día. Somos una empresa de desatrancos con mas de 25 años de experiencia. Trabajamos para particulares, empresas, comunidades de vecinos, administradores de fincas, etc.'
 
 descripcion1: 
-  "Colegios con atascos en general de aseos y arquetas de patios.  
-  
-Urbanizaciones con atascos, arquetas deterioradas, problemas de tuberías o bajantes.
-Restaurantes con problemas de atascos en cocina, fregaderos o en los aseos de los clientes.
-Instalaciones deportivas con problemas en los desagües de las piscina o vaciado de arquetas en los vestuarios."
 
 
-
-
-descripcion2: "Clientes que han solicitado nuestros servicios de desatascos urgentes en Madrid: "
+descripcion2: "NUESTROS SERVICIOS DE DESATASCOS URGENTES EN MADRID: "
 
 option1: '- Pisos y viviendas en general con problemas de atascos en bañeras, fregaderos o inodoros.'
 
@@ -41,3 +34,4 @@ detailDesc: "Mantenemos activo los 365 días del año el servicio de desatascos 
 
 isFeatured: true
 ---
+

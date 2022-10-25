@@ -5,18 +5,13 @@ mediumImage: 'renovation-md.jpg'
 largeImage: 'renovation-lg.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
-detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
+detailSubTitle: 'Como profesionales del sector estamos disponibles las 24 horas, los 365 días del año y garantizamos el mejor servicio con los mejores precios del mercado'
+detailDesc: 'Somos la mejor opción de desatascos baratos en Madrid, contamos con más de 25 años de experiencia. Contamos con vehículos propios y un amplio personal cualificado para solucionar los atascos de tuberías de desagües, WC, lavadoras, lavavajillas, fregaderos, sumideros, bajantes comunitarias, industriales, viviendas, parkings, etc. En Grupal SL garantizamos el mejor servicio en el menor tiempo posible, somos los mejores en el servicio de desatascos baratos en Madrid.'
 parrafo: "Los mejores precios en desatascos, mejoramos tu presupuesto. Llámnos y compruébalo."
-descripcion: 'Cómo Poceros en Madrid realizamos todo tipo de Desatasco, Desatranco, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.
-parrafo: "Hola esto es una prueba de párrafo"
+descripcion: 'Nos importa la opinión de nuestros clientes, por ello, nuestros precios se ajustan para que sean los más económicos, sin perder la calidad. '
 
+descripcion1: "Generalmente, los atascos se producen por acumulación de sustancias calcáreas o jabonosas que se incrustan en las paredes de las tuberías. Las sustancias suelen proceder del jabón en las lavadoras, el papel no desechable, la tierra de los desagües pluviales, las raíces que pueden penetrar en las tuberías. En consecuencia, las tuberías pierden fluidez y se provoca un atasco. "
 
-Tenemos una cuadrilla de Poceros en Madrid para atender todo tipo de Urgencias las 24 horas del Día. Somos una empresa de desatrancos con mas de 25 años de experiencia. Trabajamos para particulares, empresas, comunidades de vecinos, administradores de fincas, etc.'
-
-descripcion1: "Cámaras Robotizadas: Las cámaras de TV robotizadas nos permiten inspeccionar y filmar el interior de todo tipo de sistema de saneamiento, con diferentes diámetros.  Tienen una autonomía de hasta 300 metros y disponen de cabezales rotativos de 360º, y software de medición de pendientes. Además, el sistema tractor permite salvar obstáculos y elevar la cámara por encima del agua.
-Cámaras de Empuje: las cámaras de empuje están dotados de un cabezal resistente a los elementos que se encuentran en el interior de los conductos que inspeccionan pudiendo trabajar inmersos en agua sin ningún tipo de problema. Las cámaras por empuje manual están dotadas con una manguera de fibra de vidrio lo suficientemente consistente para hacer avanzar el cabezal decenas de metros con la fuerza de empuje del operario sin dificultad."
-
-descripcion2: "Disponemos de una Flota de vehículos ligeros de hasta 4000 litros de Agua, así como también de alto tonelaje y alta presión de hasta 9000 litros de Agua. En muchas ocasiones se necesitan vehículos mas pequeños que un camión cuba. Nosotros podemos enviar tantos vehículos pequeños como sea necesario para, por ejemplo, achicar el agua en un garaje."
+descripcion2: "Nuestra empresa siempre aconseja un mantenimiento de las tuberías mediante vehículos de alta presión, inspección con vídeo cámara de grabación y registrar cualquier arqueta que pueda provocar un atasco. Desde  Grupo Taser recomendamos una revisión periódica, para poder revertir los posibles problemas en un futuro. Los pozos y fosas sépticas son depósitos que necesitan un mantenimiento y limpieza ininterrumpida.  Nuestros expertos cuentan con una gran experiencia en el vaciado de las aguas negras con  vehículos de succión. Contamos con los medios adecuados para la correcta conservación de estos depósitos. "
 isFeatured: true
 ---

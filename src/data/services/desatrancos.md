@@ -5,19 +5,19 @@ mediumImage: 'project-planning-md.jpg'
 largeImage: 'project-planning-lg.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
-detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
-descripcion: 'Cómo Poceros en Madrid realizamos todo tipo de Desatasco, Desatranco, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.
+detailSubTitle: 'Empresa líder en servicios de desatascos y desatrancos en Madrid y zonas aledañas de Toledo y Guadalajara, siendo este el servicio más demandado que realizamos.'
+detailDesc: ''
 
 
 
-Tenemos una cuadrilla de Poceros en Madrid para atender todo tipo de Urgencias las 24 horas del Día. Somos una empresa de desatrancos con mas de 25 años de experiencia. Trabajamos para particulares, empresas, comunidades de vecinos, administradores de fincas, etc.'
+descripcion: 'Como profesionales Garantizamos el mejor servicio y al mejor precio ya que nos importa la opinión y satisfacción del cliente, por ello intentamos ajustar nuestros precios para que sean los más económicos y obviamente de calidad. Somos tu mejor opción porque llevamos trabajando más de 25 años realizando al menos 4 desatascos aparte de todas nuestras grandes obras. Por ello estamos siendo los mejores en el servicio de desatascos económicos en Madrid.'
 
-parrafo: "Empresa de desatrancos con más de 25 años de experiencia. Contamos con los mejores precios de todo el sector."
+parrafo: "Garantizamos que el servicio urgente de desatascos será percisado en el menor tiempo posible en relación a la avería"
 
-descripcion1: "Cámaras Robotizadas: Las cámaras de TV robotizadas nos permiten inspeccionar y filmar el interior de todo tipo de sistema de saneamiento, con diferentes diámetros.  Tienen una autonomía de hasta 300 metros y disponen de cabezales rotativos de 360º, y software de medición de pendientes. Además, el sistema tractor permite salvar obstáculos y elevar la cámara por encima del agua.
-Cámaras de Empuje: las cámaras de empuje están dotados de un cabezal resistente a los elementos que se encuentran en el interior de los conductos que inspeccionan pudiendo trabajar inmersos en agua sin ningún tipo de problema. Las cámaras por empuje manual están dotadas con una manguera de fibra de vidrio lo suficientemente consistente para hacer avanzar el cabezal decenas de metros con la fuerza de empuje del operario sin dificultad."
+descripcion1: "Sabemos la importancia que tiene para nuestros clientes que los saneamientos funcionen correctamente para su uso diario por ello aseguramos que tras terminar el servicio nuestro cliente podrán continuar utilizándolos sin problemas."
 
-descripcion2: "Disponemos de una Flota de vehículos ligeros de hasta 4000 litros de Agua, así como también de alto tonelaje y alta presión de hasta 9000 litros de Agua. En muchas ocasiones se necesitan vehículos mas pequeños que un camión cuba. Nosotros podemos enviar tantos vehículos pequeños como sea necesario para, por ejemplo, achicar el agua en un garaje."
+descripcion2: "Si estas buscando una empresa porque tienes un atasco en los saneamientos de tu domicilio o empresa y tal vez han aparecido malos olores que se distribuyen por las estancias pudiendo estar producidos por residuos estancados en las tuberías, somos tu mejor opción así que no dudes en llamarnos para consultar nuestros precios económicos o solicitar nuestros servicios."
+
+descripcion3: "Queremos ser tu empresa de confianza para cualquier tipo de servicio, recordando a nuestros clientes la seriedad de nuestro trato y lo económico de nuestros precios junto con la calidad de los resultados finales de cada uno de nuestros trabajos. "
 isFeatured: true
 ---

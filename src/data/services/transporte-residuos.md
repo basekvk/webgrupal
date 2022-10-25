@@ -5,18 +5,25 @@ mediumImage: 'laminate-flooring-md.jpg'
 largeImage: 'laminate-flooring-lg.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
-detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
-descripcion: 'Cómo Poceros en Madrid realizamos todo tipo de Desatasco, Desatranco, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.
-
-Tenemos una cuadrilla de Poceros en Madrid para atender todo tipo de Urgencias las 24 horas del Día. Somos una empresa de desatrancos con mas de 25 años de experiencia. Trabajamos para particulares, empresas, comunidades de vecinos, administradores de fincas, etc.'
+detailSubTitle: 'Recogemos y transportamos los resíduos siendo respetuosos con el medio ambiente. Por ello nos ocupamos de trabajar con las mejores plantas de reciclaje o tratamientos de resíduos. '
+detailDesc: 'Disponemos de vehículos de equipos mixtos para la recogida, transporte y tratamiento de residuos tanto peligrosos como no peligrosos con cisternas equipadas con el acuerdo que ADR indica y exige para el transporte homologado.'
+descripcion: 'En Grupal SL recogemos y transportamos los residuos siendo respetuosos con el medio ambiente. Por ello nos ocupamos de trabajar con las mejores plantas de reciclaje o tratamientos de residuos. '
 
 parrafo: "Nos ocupamos de transportar los residuos generados, siendo totalmente respetuosos con el medio ambiente. Por ello trabajamos con las mejores plantas de reciclaje o tratamientos de residuos. "
 
 
-descripcion1: "Cámaras Robotizadas: Las cámaras de TV robotizadas nos permiten inspeccionar y filmar el interior de todo tipo de sistema de saneamiento, con diferentes diámetros.  Tienen una autonomía de hasta 300 metros y disponen de cabezales rotativos de 360º, y software de medición de pendientes. Además, el sistema tractor permite salvar obstáculos y elevar la cámara por encima del agua.
-Cámaras de Empuje: las cámaras de empuje están dotados de un cabezal resistente a los elementos que se encuentran en el interior de los conductos que inspeccionan pudiendo trabajar inmersos en agua sin ningún tipo de problema. Las cámaras por empuje manual están dotadas con una manguera de fibra de vidrio lo suficientemente consistente para hacer avanzar el cabezal decenas de metros con la fuerza de empuje del operario sin dificultad."
+descripcion1: "Procedimiento para la recogida de residuos y tratamiento:"
 
-descripcion2: "Disponemos de una Flota de vehículos ligeros de hasta 4000 litros de Agua, así como también de alto tonelaje y alta presión de hasta 9000 litros de Agua. En muchas ocasiones se necesitan vehículos mas pequeños que un camión cuba. Nosotros podemos enviar tantos vehículos pequeños como sea necesario para, por ejemplo, achicar el agua en un garaje."
+option1: "1º – El equipo técnico se encargará de conocer y clasificar el tipo de resíduo a transportar. "
+
+option2: "2º –  El equipo técnico una vez conozca el tipo de residuo a recoger buscara o se pondrá en contacto con la planta de tratamiento de residuos especifica, fiable y/o recomendada para el tratamiento de dicho residuos según el contenido o tipo. "
+
+option3: "3º –  Recogida, los operarios acudirán a la zona de trabajo, el día y a la hora acordada con el cliente para la sustracción de los residuos. "
+
+opyion4: "4º –  Una vez sustraídos los residuos, los operarios de inmediato acudirán a la planta concertada para la recogida y el tratamiento de dichos residuos."
+
+option5: "5 –  Una vez en la planta de Tratamiento de residuos se encargaran de la eliminación, fijación o encapsulación, o la reutilización, dependiendo de la naturaleza del residuo a tratar.  "
+
+descripcion2: ""
 isFeatured: true
 ---

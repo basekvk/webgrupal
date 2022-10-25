@@ -1,23 +1,28 @@
 ---
 id: 'service-07'
 title: 'Limpieza Fosas Sépticas'
+
 mediumImage: 'construction-md.jpg'
+
 largeImage: 'construction-lg.jpg'
+
 detailBreadcrumbSubTitle: 'Inundaciones'
+
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
-detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...'
-descripcion: 'Cómo Poceros en Madrid realizamos todo tipo de Desatasco, Desatranco, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.
+
+detailSubTitle: 'Somos especialistas en el vaciado de fosas septicas así como en el mantenimiento y limpieza de estas. En Grupo Taser garantizamos un servicio completo y con los mejores  resultados'
+
+detailDesc: 'Las fosas septicas son instalaciones destinadas a tratar parte de las aguas residuales que se generan en una casa o grupo de viviendas donde no hay alcantarillado y puede llegar atascarse.'
 
 
-
-Tenemos una cuadrilla de Poceros en Madrid para atender todo tipo de Urgencias las 24 horas del Día. Somos una empresa de desatrancos con mas de 25 años de experiencia. Trabajamos para particulares, empresas, comunidades de vecinos, administradores de fincas, etc.'
+descripcion: 'Ofrecemos máxima calidad ya que no solo contamos con el personal mas eficiente y especializado si no que contamos con el mejor de los equipos para realizar el vaciado mediante bombeo y tras ello poder realizar el transporte del cieno a la planta de recogida de residuos como la normativa obliga. Supervisamos la limpieza de principio a fin. Sacamos la materia del pozo o fosa hasta el vaciado completo.'
 
 parrafo: "Somos especialistas en el vaciado de fosas sépticas así como en el mantenimiento y limpieza de las mismas"
 
-descripcion1: "Cámaras Robotizadas: Las cámaras de TV robotizadas nos permiten inspeccionar y filmar el interior de todo tipo de sistema de saneamiento, con diferentes diámetros.  Tienen una autonomía de hasta 300 metros y disponen de cabezales rotativos de 360º, y software de medición de pendientes. Además, el sistema tractor permite salvar obstáculos y elevar la cámara por encima del agua.
-Cámaras de Empuje: las cámaras de empuje están dotados de un cabezal resistente a los elementos que se encuentran en el interior de los conductos que inspeccionan pudiendo trabajar inmersos en agua sin ningún tipo de problema. Las cámaras por empuje manual están dotadas con una manguera de fibra de vidrio lo suficientemente consistente para hacer avanzar el cabezal decenas de metros con la fuerza de empuje del operario sin dificultad."
+descripcion1: "Si estas buscando una empresa por que tienes una fosa séptica y necesitas que sea vaciada, realizar el mantenimiento correspondiente habitual o realizar alguna revisión por algún problema puntual, somos tu mejor opción así que no dudes en llamarnos para consultar nuestros precios económicos o solicitar nuestros servicios . ."
 
-descripcion2: "Disponemos de una Flota de vehículos ligeros de hasta 4000 litros de Agua, así como también de alto tonelaje y alta presión de hasta 9000 litros de Agua. En muchas ocasiones se necesitan vehículos mas pequeños que un camión cuba. Nosotros podemos enviar tantos vehículos pequeños como sea necesario para, por ejemplo, achicar el agua en un garaje."
+descripcion2: "Nuestros departamento de atención al cliente te informará del horario disponible para asistir al lugar de la incidencia, confirmando así con el cliente día y hora a la que el técnico acudirá en su ayuda. "
+
+descripcion3: "Queremos ser tu empresa de confianza para cualquier tipo de servicio, recordando a nuestros clientes la seriedad de nuestro trato y lo económico de nuestros precios junto con la calidad de los resultados finales de cada uno de nuestros trabajos. "
 isFeatured: true
 ---

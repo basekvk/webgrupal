@@ -5,19 +5,21 @@ mediumImage: 'concrete-supply-md.jpg'
 largeImage: 'concrete-supply-lg.jpg'
 detailBreadcrumbSubTitle: 'Limpieza de Tuberías'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
-detailSubTitle: 'Provide the best Constructin services for our client with their satisfaction we have expert team, modern equipments and quality materials'
-detailDesc: 'Construction of itself, because it is pain, but because...
- some are proper style design occur in toil and pain pleasure we have a expert team some of the main features pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure...  
+detailSubTitle: 'Mejor sevicio de limpieza de tuberías en toda la comunidad de Madrid con inspección con cámara gratuita al finalizar la misma'
+detailDesc: '
  '
 parrafo: "Somos especialistas en la reparación y limpieza de tuberías. Acudimos urgentemente para solucionar el problema en el menor tiempo posible las 24 horas del día."
 
-descripcion: 'Cómo Poceros en Madrid realizamos todo tipo de Desatasco, Desatranco, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.
+descripcion: 'Aconsejamos realizar el mantenimiento y limpieza de las tuberías con frecuencia de al menos una vez al año, para evitar el deterioro o rotura de la tuberías en el peor de los casos, un mal uso o mal cuidados de las tuberías como incidencia leve puede ocasionar atascos produciendo malos olores o impedir que el agua siga su curso natural. El mantenimiento y la limpieza de tuberías es lo mas importante tras una correcta instalación de estas. Si se realiza un mantenimiento y limpieza de las tuberías adecuadamente y frecuentemente evitaremos disgustos causados inundaciones, desbordamientos de los desechos por los WC, humedades, malos olores, entre otras muchas incidencias que pueden suponer un gasto económico elevado.'
 
-Tenemos una cuadrilla de Poceros en Madrid para atender todo tipo de Urgencias las 24 horas del Día. Somos una empresa de desatrancos con mas de 25 años de experiencia. Trabajamos para particulares, empresas, comunidades de vecinos, administradores de fincas, etc.'
+descripcion1: "Consejos para el mantenimiento y limpieza de tuberías"
 
-descripcion1: "Cámaras Robotizadas: Las cámaras de TV robotizadas nos permiten inspeccionar y filmar el interior de todo tipo de sistema de saneamiento, con diferentes diámetros.  Tienen una autonomía de hasta 300 metros y disponen de cabezales rotativos de 360º, y software de medición de pendientes. Además, el sistema tractor permite salvar obstáculos y elevar la cámara por encima del agua.
-Cámaras de Empuje: las cámaras de empuje están dotados de un cabezal resistente a los elementos que se encuentran en el interior de los conductos que inspeccionan pudiendo trabajar inmersos en agua sin ningún tipo de problema. Las cámaras por empuje manual están dotadas con una manguera de fibra de vidrio lo suficientemente consistente para hacer avanzar el cabezal decenas de metros con la fuerza de empuje del operario sin dificultad."
+option1: "1.- No utilizar el WC de papelera: ninguna red de saneamientos debe de ser utilizada como papelera. Verter plásticos, papeles, utensilios para la higiene femenina ( tampones, compresas, etc…), gomas, bastoncillos u hojas de afeitar entre otras muchas cosas que se tiran, esta totalmente contraindicado si no se quiere producir un atasco o rotura en las bajantes o saneamientos."
 
-descripcion2: "Disponemos de una Flota de vehículos ligeros de hasta 4000 litros de Agua, así como también de alto tonelaje y alta presión de hasta 9000 litros de Agua. En muchas ocasiones se necesitan vehículos mas pequeños que un camión cuba. Nosotros podemos enviar tantos vehículos pequeños como sea necesario para, por ejemplo, achicar el agua en un garaje."
+option2: "2.- No utilizar productos corrosivos para desatascos. El uso de productos de fuerte corrosión esta muy demandado por el público, pero es totalmente negativo para la red de saneamientos, ya que pueden causar deterioro y destruir las tuberías y bajantes."
+
+option3: "3.-No arrojar pinturas, ceras o productos disolventes: estos productos deterioran las tuberías. Estos productos se adhieren en la pared de las tuberías, provocando el cúmulo y provocar un atasco. "
+
+descripcion2: "Manten tu red de saneamientos realizando mantenimientos esporádicos y limpieza de las tuberías. Llámanos y te daremos presupuesto GRATIS y sin compromiso."
 isFeatured: true
 ---
