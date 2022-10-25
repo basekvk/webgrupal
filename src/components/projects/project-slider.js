@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 function ProjectSlider({ project }) {
     const imagePath = `/images/projects/${project?.slug}/${project?.image}`;
-    const linkPath = `/projects/${project?.slug}`;
+    const linkPath = `/services/${project?.slug}`;
 
     return (
         <div className="project-item">

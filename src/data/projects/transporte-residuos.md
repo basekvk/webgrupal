@@ -1,8 +1,8 @@
 ---
-title: 'Desatrancos'
-image: 'desatrancos.jpg'
-subTitle: 'MADRID'
-duration: 'Desatrancos en Madrid'
+title: 'Transporte Residuos'
+image: 'transporte-residuos.jpg'
+subTitle: 'Transporte Residuos'
+duration: ''
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
 groupImageTwo: '/images/project-detail/1-2-222x245.jpg'

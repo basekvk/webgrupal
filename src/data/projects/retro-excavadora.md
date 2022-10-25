@@ -1,8 +1,8 @@
 ---
-title: 'Parle Palace'
-image: 'parle-palace.jpg'
-subTitle: 'CONSTRUCTION'
-duration: 'Duration: 35 month'
+title: 'Retro Excavadora'
+image: 'retro-excavadora.jpg'
+subTitle: 'Retro Excavadora'
+duration: ''
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
 groupImageTwo: '/images/project-detail/1-2-222x245.jpg'

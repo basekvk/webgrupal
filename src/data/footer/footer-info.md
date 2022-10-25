@@ -14,9 +14,9 @@ informationList:
         {
             id: 'informationList-03',
             title: 'Política Privacidad',
-            path: 'projects',
+            path: 'politica-privacidad',
         },
-        { id: 'informationList-04', title: 'Aviso Legal', path: 'our-team' },
+        { id: 'informationList-04', title: 'Aviso Legal', path: 'aviso-legal' },
         { id: 'informationList-05', title: 'Contacta', path: 'contact' },
     ]
 quickLinkTitle: 'Trabajamos en'
@@ -34,6 +34,16 @@ quickLinkList:
         { id: 'quickLinkList-04', title: 'Desatascos Getafe
 ', path: 'contact' },
         { id: 'quickLinkList-05', title: 'Desatascos Móstoles
+', path: 'about' },
+       { id: 'quickLinkList-06', title: 'Desatascos Seseña
+', path: 'about' },
+       { id: 'quickLinkList-07', title: 'Desatascos Navalcarnero
+', path: 'about' },
+       { id: 'quickLinkList-08', title: 'Desatascos Alcalá de Henares
+', path: 'about' },
+       { id: 'quickLinkList-09', title: 'Desatascos Pozuelo
+', path: 'about' },
+       { id: 'quickLinkList-10', title: 'Desatascos Aranjuez
 ', path: 'about' },
     ]
 contactInfoTitle: 'Info Contacto'

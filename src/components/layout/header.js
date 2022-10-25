@@ -418,7 +418,7 @@ function Header() {
                                             </ul>
                                         </li> */}
                                         <li>
-                                            <Link href="/projects/project-gallery">
+                                            <Link href="/projects/galeria">
                                                 <a>
                                                     <span>GALERÍA</span>
                                                 </a>

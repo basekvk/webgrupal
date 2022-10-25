@@ -16,13 +16,13 @@ function ProjectGalleryPage({
     return (
         <>
             <Head>
-                <title>Projects Gallery - OxyBuild</title>
-                <meta name="description" content="Projects Gallery" />
+                <title>Galería Fotos - Grupal SL</title>
+                <meta name="description" content="Galería de trabajos" />
             </Head>
             <Breadcrumb
-                subTitle="Our Project"
-                title="Gallery"
-                desc="Construction of itself, because it is pain some proper style design occur are pleasure"
+                subTitle="Nuestros Trabajos"
+                title="Galería"
+                desc="Aquí tienes algunas fotos de nuestros trabajos realizados por nuestros especialistas"
             />
             <ProjectGallery projects={projects} />
             <BannerFive bannerTwoItems={bannerTwoItems} />

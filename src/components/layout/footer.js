@@ -173,12 +173,12 @@ function Footer({ footerItems }) {
                                 <Col md={{ span: 6 }} sm={{ span: 8 }}>
                                     <div className={classes.copyright}>
                                         <span className={classes.text}>
-                                            © 2022 GRUPAL SL Made with
+                                            © 2022 GRUPAL SL
                                             <span className={classes.icon}>
-                                                <FaIcons.FaHeart />
+                                                
                                             </span>
-                                            by
-                                            <a href="">Grupal SL</a>
+                                            
+                                            <a href=""></a>
                                         </span>
                                     </div>
                                 </Col>

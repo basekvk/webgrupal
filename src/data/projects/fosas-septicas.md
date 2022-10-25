@@ -1,8 +1,8 @@
 ---
-title: 'Railway Tunnel'
-image: 'railway-tunnel.jpg'
-subTitle: 'CONSTRUCTION'
-duration: 'Duration: 36 month'
+title: 'Fosas Sépticas'
+image: 'fosas-septicas.jpg'
+subTitle: 'FOSAS SÉPTICAS'
+duration: ''
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
 groupImageTwo: '/images/project-detail/1-2-222x245.jpg'
