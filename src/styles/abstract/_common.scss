@@ -25,6 +25,7 @@ a {
     transition: $baseTransition;
     text-decoration: none;
 }
+
 a:hover {
     color: white;
     text-decoration: none;
@@ -749,4 +750,35 @@ iframe {
             }
         }
     }
+}
+
+.boton{
+    
+  background: $primary;
+  border-bottom: 5px solid #8fdb13;
+  border-radius: 12px;
+  box-shadow: 6px 6px 6px #999;
+  color: black;
+  cursor: pointer;
+  display: block;  
+  font-family: 'Raleway', Arial, Helvetica;
+  font-size: 28px;
+  height: 88px;
+  margin: 80px auto;
+  padding:20px 20px;
+  text-align: center;
+  transition: all 0.2s ease 0s;
+  width: 300px;
+}
+.boton:hover{
+	background: black;
+    color: white;
+}
+.boton:active {
+	box-shadow: 2px 2px 2px #777, 0px 0px 35px 0px #8fdb13;
+	border-bottom:1px solid $primary;
+  text-shadow:  0px 0px 5px #fff, 0px 0px 5px #fff;
+	transform: translateY(4px);
+  transition: all 0.1s ease 0s;
+  margin: 80px auto 76px auto;
 }

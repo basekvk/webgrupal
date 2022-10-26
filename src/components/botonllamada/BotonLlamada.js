@@ -1,9 +1,13 @@
+import { FaPhoneAlt } from 'react-icons/fa';
+
 function botonLlamada() {
     return (
         <>
-            <a id="botonllamada" href="#" className="btn btn-primary btn-lg">
-                <i class="glyphicon glyphicon-earphone"></i> Llamanos
-            </a>
+            
+                <a className="boton" href="tel:+34915771849">
+                    <FaPhoneAlt /> LLAMANOS
+                </a>
+            
         </>
     );
 }
