@@ -15,6 +15,7 @@
         font-weight: 800;
         margin-left: 5px;
         color: $secondary;
+        font-size: 20px;
     }
 }
 .info {
@@ -70,7 +71,7 @@
                 transition: $baseTransition;
                 font-family: $rajdhani;
                 font-weight: 600;
-                color: $white;
+                color: white;
                 display: block;
                 padding-top: 30px;
                 padding-bottom: 30px;
@@ -115,7 +116,7 @@
         align-items: center;
         cursor: pointer;
         height: 100%;
-        color: $white;
+        color: black;
     }
 }
 /* -Header Logo- */

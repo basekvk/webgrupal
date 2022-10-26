@@ -266,7 +266,7 @@ iframe {
 .offcanvas {
     &-menu {
         transition: all 500ms linear;
-        background-color: #333333;
+        background-color: black;
         padding-top: 50px;
         padding-left: 50px;
         padding-right: 50px;
@@ -317,12 +317,18 @@ iframe {
                     &-text {
                         a {
                             text-transform: uppercase;
-                            color: #c0c0c0;
+                            color: $primary;
+                            &:hover {
+                
+                    color: white;
+                
+            }
                             font-size: 14px;
                             display: flex;
                             justify-content: space-between;
                         }
                     }
+                     
                 }
             }
         }
@@ -764,7 +770,7 @@ iframe {
   font-family: 'Raleway', Arial, Helvetica;
   font-size: 28px;
   height: 88px;
-  margin: 80px auto;
+  margin: 20px auto; 
   padding:20px 20px;
   text-align: center;
   transition: all 0.2s ease 0s;

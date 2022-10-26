@@ -49,7 +49,7 @@ function Testimonial({ testimonialItems, testimonialSectionItems }) {
                                 <GoogleMyBusiness />
                             </div>
                         </div>
-                        )
+                        
                     </Col>
                 </Row>
             </Container>
