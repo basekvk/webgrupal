@@ -4,6 +4,7 @@ import * as FaIcons from 'react-icons/fa';
 import Link from 'next/link';
 import { Fragment } from 'react';
 import classes from './footer.module.scss';
+import Habitisimo from './../Habitisimo';
 
 function Footer({ footerItems }) {
     return (
@@ -46,6 +47,7 @@ function Footer({ footerItems }) {
                                                     {footerItem?.inquaryNumber}
                                                 </a>
                                             </Link>
+                                            <Habitisimo />
                                         </div>
                                     </div>
                                 </Col>
@@ -174,10 +176,9 @@ function Footer({ footerItems }) {
                                     <div className={classes.copyright}>
                                         <span className={classes.text}>
                                             © 2022 GRUPAL SL
-                                            <span className={classes.icon}>
-                                                
-                                            </span>
-                                            
+                                            <span
+                                                className={classes.icon}
+                                            ></span>
                                             <a href=""></a>
                                         </span>
                                     </div>

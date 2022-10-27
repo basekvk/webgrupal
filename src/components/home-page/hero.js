@@ -4,6 +4,7 @@ import SwiperCore, { Navigation, Pagination, Autoplay } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import classes from './hero.module.scss';
 import 'swiper/swiper-bundle.css';
+import BotonLlamada from './../botonllamada/BotonLlamada';
 
 SwiperCore.use([Navigation, Pagination, Autoplay]);
 
@@ -60,13 +61,13 @@ function Hero({ heroItems }) {
                                         {heroItem?.btnSecondaryText}
                                     </a>
                                 </Link>
-                                <Link href="/contact">
+                                <Link href="tel://+34915771849">
                                     <a
                                         className={`${classes.btn} ${classes.btn_primary} ${classes.btn_hover__white}`}
                                     >
                                         {heroItem?.btnPrimaryText}
                                     </a>
-                                </Link>
+                                </Link>                              
                             </div>
                         </div>
                     </div>

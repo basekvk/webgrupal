@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import PropTypes from 'prop-types';
 import Breadcrumb from '../../components/breadcrumb';
-import Newsletter from '../../components/newsletter/newsletter';
+
 import Footer from '../../components/layout/footer';
 import ServiceDetail from '../../components/services/service-detail';
 import { getAllItems, getItemData, getItemsFiles } from '../../lib/items-util';
@@ -12,7 +12,6 @@ function ServiceDetailsPage({
     sidebarList,
     richTexts,
     servicesSidebar,
-    newsletterItems,
     footerItems,
 }) {
     return (
@@ -23,7 +22,7 @@ function ServiceDetailsPage({
             </Head>
 
             <Breadcrumb
-                subTitle="Servicios"
+                subTitle="Trabajamos en:"
                 title={service.title}
                 desc={service.parrafo}
             />
@@ -46,8 +45,8 @@ export function getStaticProps(context) {
     const { params } = context;
     const { slug } = params;
 
-    const sidebarList = getAllItems('services');
-    const service = getItemData(slug, 'services');
+    const sidebarList = getAllItems('trabajamos');
+    const service = getItemData(slug, 'trabajamos');
     const servicesSidebar = getAllItems('service-sidebar');
     const richTexts = getAllItems('rich-text');
     const ourServices = getAllItems('our-service');
@@ -68,7 +67,7 @@ export function getStaticProps(context) {
 }
 
 export function getStaticPaths() {
-    const serviceFilenames = getItemsFiles('services');
+    const serviceFilenames = getItemsFiles('trabajamos');
 
     const slugs = serviceFilenames.map((fileName) =>
         fileName.replace(/\.md$/, '')
