@@ -18,7 +18,7 @@ function Newsletter({ newsletterItems }) {
                                     type="submit"
                                     className={`${classes.btn} ${classes.btn_secondary} ${classes.btn_hover__white}`}
                                 >
-                                    <a href="tel:+34915771849">LLÁMANOS</a>
+                                    <a href="tel://+34915771849">LLÁMANOS</a>
                                 </button>
                             </div>
                         </Col>

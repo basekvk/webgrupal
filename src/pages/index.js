@@ -10,10 +10,8 @@ import LatestProject from '../components/home-page/latest-project';
 import Footer from '../components/layout/footer';
 import Team from '../components/team';
 import { getAllItems, getFeaturedItems } from '../lib/items-util';
-import Habitisimo from '../components/Habitisimo';
 
 import 'react-whatsapp-widget/dist/index.css';
-import GoogleMyBusiness from '../components/GoogleMyBusiness';
 
 function HomePage({
     heroItems,
@@ -57,9 +55,6 @@ function HomePage({
             <BannerTwo bannerTwoItems={bannerTwoItems} />
 
             <Team teamItems={teamItems} teamSectionItems={teamSectionItems} />
-
-            <Habitisimo />
-            <GoogleMyBusiness />
 
             <WhatsAppWidget
                 phoneNumber="+34680394539"

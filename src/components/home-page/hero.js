@@ -11,7 +11,7 @@ function Hero({ heroItems }) {
     return (
         <Swiper
             autoplay={{
-                delay: 4000,
+                delay: 8000,
                 disableOnInteraction: false,
             }}
             speed={1000}
