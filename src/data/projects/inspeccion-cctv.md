@@ -1,7 +1,7 @@
 ---
-title: 'Obras de Pocería'
-image: 'obrasdepoceria.webp'
-subTitle: 'ARANJUEZ'
+title: 'Inspecciones CCTV'
+image: 'inspeccion-cctv.jpg'
+subTitle: 'INSPECCIONES CCTV'
 duration: ''
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'
