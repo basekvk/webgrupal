@@ -1,7 +1,7 @@
 ---
 title: 'Transporte Residuos'
 image: 'transporteresiduos.jpg'
-subTitle: 'Transporte Residuos'
+subTitle: 'VALDEMORO'
 duration: ''
 breadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 groupImageOne: '/images/project-detail/1-1-226x245.jpg'

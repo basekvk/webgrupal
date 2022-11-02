@@ -1,8 +1,8 @@
 ---
 id: 'service-07'
-title: 'Desatascos Getafe'
+title: 'Poeros Getafe'
 mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+largeImage: 'desatascosgetafe-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Empresa de poceros en Getafe con los mejores precios del mercado. Desatasscos, desatrancos, obras de pocería ....'

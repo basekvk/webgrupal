@@ -1,8 +1,8 @@
 ---
 id: 'service-08'
-title: 'Desatascos Parla'
+title: 'Poceros Parla'
 mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+largeImage: 'desatascosparla-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Empresa de poceros en Parla. Desatascos, desatrancos, obras de pocería, limpieza de tuberías...¡Llámanos!'

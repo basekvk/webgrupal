@@ -1,8 +1,8 @@
 ---
 id: 'service-06'
-title: 'Desatascos Fuenlabrada'
+title: 'Poceros Fuenlabrada'
 mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+largeImage: 'desatascosfuenlabrada-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Empresa de poceros en Fuenlabrada con los mejores precios. Llámanos y compruébalo'

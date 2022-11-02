@@ -1,8 +1,8 @@
 ---
 id: 'service-13'
-title: 'Desatascos Móstoles'
+title: 'Poceros Móstoles'
 mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+largeImage: 'desatascosmostoles-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Como profesionales del sector estamos disponibles las 24 horas, los 365 días del año y garantizamos el mejor servicio con los mejores precios del mercado'

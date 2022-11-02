@@ -1,8 +1,8 @@
 ---
 id: 'service-11'
-title: 'Desatascos Valdemoro'
+title: 'Poceros Valdemoro'
 mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+largeImage: 'desatascosvaldemoro-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Empresa de poceros en Valdemoro con los mejores precios. Llámanos y compruébalo'

@@ -1,8 +1,8 @@
 ---
 id: 'service-09'
-title: 'Desatascos Pozuelo'
+title: 'Poceros Pozuelo'
 mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+largeImage: 'desatascospozuelo-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Empresa de poceros en Pozuelo con los mejores precios. Llámanos y compruébalo'

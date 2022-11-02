@@ -20,12 +20,12 @@ export const OffcanvasData = [
         submenu: [
             {
                 id: 'submenu-01',
-                link: '/services/desatascos-24-horas',
+                link: '/services/desatascos24horas',
                 text: 'Desatascos 24 horas',
             },
             {
                 id: 'submenu-02',
-                link: '/services/limpieza-de-tuberias',
+                link: '/services/limpiezadetuberias',
                 text: 'Limpieza de Tuberías',
             },
             {
@@ -35,7 +35,7 @@ export const OffcanvasData = [
             },
             {
                 id: 'submenu-04',
-                link: '/services/transsporte-residuos',
+                link: '/services/transsporteresiduos',
                 text: 'Transporte de Residuos',
             },
             {
@@ -45,17 +45,17 @@ export const OffcanvasData = [
             },
             {
                 id: 'submenu-06',
-                link: '/services/desatascos-baratos',
+                link: '/services/desatascosbaratos',
                 text: 'Desatascos Baratos',
             },
             {
                 id: 'submenu-07',
-                link: '/services/retro-excavadora',
+                link: '/services/retroexcavadora',
                 text: 'Servicios Retro-Excavadora',
             },
             {
                 id: 'submenu-08',
-                link: '/services/fosas-septicas',
+                link: '/services/fosassepticas',
                 text: 'Limpieza Fosas Sépticas',
             },
         ],

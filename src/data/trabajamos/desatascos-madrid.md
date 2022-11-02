@@ -1,8 +1,8 @@
 ---
 id: 'service-01'
-title: 'Desatascos Madrid'
-mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+title: 'Poceros Madrid'
+mediumImage: 'desatascosmadrid-md.jpg'
+largeImage: 'desatascosmadrid-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Como profesionales del sector estamos disponibles las 24 horas, los 365 días del año y garantizamos el mejor servicio con los mejores precios del mercado'
@@ -12,6 +12,6 @@ descripcion: 'Nos importa la opinión de nuestros clientes, por ello, nuestros p
 
 descripcion1: "Generalmente, los atascos se producen por acumulación de sustancias calcáreas o jabonosas que se incrustan en las paredes de las tuberías. Las sustancias suelen proceder del jabón en las lavadoras, el papel no desechable, la tierra de los desagües pluviales, las raíces que pueden penetrar en las tuberías. En consecuencia, las tuberías pierden fluidez y se provoca un atasco. "
 
-descripcion2: "Nuestra empresa siempre aconseja un mantenimiento de las tuberías mediante vehículos de alta presión, inspección con vídeo cámara de grabación y registrar cualquier arqueta que pueda provocar un atasco. Desde  Grupo Taser recomendamos una revisión periódica, para poder revertir los posibles problemas en un futuro. Los pozos y fosas sépticas son depósitos que necesitan un mantenimiento y limpieza ininterrumpida.  Nuestros expertos cuentan con una gran experiencia en el vaciado de las aguas negras con  vehículos de succión. Contamos con los medios adecuados para la correcta conservación de estos depósitos. "
+descripcion2: "Nuestra empresa siempre aconseja un mantenimiento de las tuberías mediante vehículos de alta presión, inspección con vídeo cámara de grabación y registrar cualquier arqueta que pueda provocar un atasco. Desde  Grupal recomendamos una revisión periódica, para poder revertir los posibles problemas en un futuro. Los pozos y fosas sépticas son depósitos que necesitan un mantenimiento y limpieza ininterrumpida.  Nuestros expertos cuentan con una gran experiencia en el vaciado de las aguas negras con  vehículos de succión. Contamos con los medios adecuados para la correcta conservación de estos depósitos. "
 isFeatured: true
 ---

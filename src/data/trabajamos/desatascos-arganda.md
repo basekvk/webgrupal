@@ -1,8 +1,8 @@
 ---
 id: 'service-04'
-title: 'Desatascos Arganda'
+title: 'Poceros Arganda'
 mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+largeImage: 'desatascosarganda-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Empresa de poceros en Arganda con los mejores precios. Llámanos y compruébalo'

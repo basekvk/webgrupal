@@ -1,8 +1,8 @@
 ---
 id: 'service-02'
-title: 'Desatascos Alcorcón'
+title: 'Poceros Alcorcón'
 mediumImage: 'renovation-lg.jpg'
-largeImage: 'renovation-md.jpg'
+largeImage: 'desatascosalcorcon-md.jpg'
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Empresa de poceros en Alcorcón ofrecemos los mejores precios del mercado. Llámanos y compruébalo'
