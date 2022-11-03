@@ -18,6 +18,7 @@ function ServiceSidebar({ sidebarList, servicesSidebar }) {
                                         href={`/trabajamos/${singleList?.slug}`}
                                     >
                                         <a download>{singleList?.title}</a>
+                                        
                                     </Link>
                                 </li>
                             ))}

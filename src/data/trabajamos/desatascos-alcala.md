@@ -19,7 +19,7 @@ descripcion2: "Desde Grupal te podemos ayudar de muchas formas diferentes. Adem�
 
 option1: "Gracias a los avances tecnológicos con los que cuentan nuestros poceros en Alcalá de Henares, extraer agua del suelo, para nosotros, no supone apenas esfuerzo. De esta forma, no tendrás que preocuparte ya que no vamos a tener la necesidad de cavar ninguna zanja y llevaremos a cabo la reparación de tu avería de la forma menos invasiva posible. "
 
-option2: "Para que te puedas hacer una idea de las técnicas que llevamos a cabo en Grrupal, somos capaces de arreglar una tubería desde dentro, aprovechando para introducirnos en la misma el propio agujero que ha dado origen a la rotura. Tu negocio o vivienda volverá a la normalidad cuanto antes."
+option2: "Para que te puedas hacer una idea de las técnicas que llevamos a cabo en Grupal, somos capaces de arreglar una tubería desde dentro, aprovechando para introducirnos en la misma el propio agujero que ha dado origen a la rotura. Tu negocio o vivienda volverá a la normalidad cuanto antes."
 
 option3: "Durante todos estos años hemos aprendido que las averías siempre se presentan sin avisar. Por este motivo, llevamos a cabo todas nuestras tareas de reparación cuando más lo necesites sin importar si es festivo o fin de semana. "
 
