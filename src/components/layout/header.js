@@ -153,7 +153,7 @@ function Header() {
                                             className={`${classes.offcanvas__btn} d-block d-lg-none menu-bar-button`}
                                             onClick={showOffcanvas}
                                         >
-                                            
+                                            <FaBars />
                                         </buton>
                                     </div>
                                 </div>
@@ -412,7 +412,7 @@ function Header() {
                                                 </a>
                                             </Link>
                                         </li>
-                                       {/*  <li>
+                                      {/*   <li>
                                             <Link href="/blogs/desatascar-tuberias">
                                                 <a>
                                                     <span>BLOG</span>
