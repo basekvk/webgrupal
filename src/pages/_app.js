@@ -3,10 +3,12 @@ import PropTypes from 'prop-types';
 import Layout from '../components/layout/layout';
 import '../styles/globals.scss';
 import { ScrollToTop } from '../components/scroll';
+import { Analytics } from '@vercel/analytics/react';
 
 function MyApp({ Component, pageProps }) {
     return (
         <Layout>
+            <Analytics />
             <Head>
                 <meta property="og:url" content="https://grupalsl.es/" />
                 <meta
@@ -42,7 +44,6 @@ function MyApp({ Component, pageProps }) {
                     content="width=device-width, initial-scale=1"
                 />
                 <link rel="icon" href="/favicon.png" />
-
             </Head>
             <Component {...pageProps} />
             <ScrollToTop />
