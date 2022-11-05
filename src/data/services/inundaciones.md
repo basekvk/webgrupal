@@ -3,7 +3,7 @@ id: 'service-03'
 title: 'Inundaciones'
 mediumImage: 'inundaciones-md.jpg'
 largeImage: 'inundaciones-lg.jpg'
-metaContent: "✅Poceros en Madrid. 🔝 Empresa de desatascos en Madrid 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
+metaContent: "✅Poceros en Madrid. 🔝 Solucionamos tus inundaciones en Madrid 24 horas. 📢 Contamos con los mejores precios. ☎️​ 695 126 600"
 detailBreadcrumbSubTitle: 'Inundaciones'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Acudimos de inmediato para realizar la evacuación de aguas por inundaciones.'

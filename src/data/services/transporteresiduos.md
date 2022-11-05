@@ -3,7 +3,7 @@ id: 'service-04'
 title: 'Transporte de Resíduos'
 mediumImage: 'transporteresiduos-md.jpg'
 largeImage: 'transporteresiduos-lg.jpg'
-metaContent: "✅Poceros en Madrid. 🔝 Empresa de tran. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
+metaContent: "✅Poceros en Madrid. 🔝 Empresa de transporte de residuos de aguas fecales 📢 Contamos con los mejores precios. ☎️​ 695 126 600"
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Recogemos y transportamos los resíduos siendo respetuosos con el medio ambiente. Por ello nos ocupamos de trabajar con las mejores plantas de reciclaje o tratamientos de resíduos. '

@@ -4,7 +4,7 @@ title: 'Tuberías'
 mediumImage: 'limpiezadetuberias-md.jpg'
 largeImage: 'limpiezadetuberias-lg.jpg'
 detailBreadcrumbSubTitle: 'Tuberías'
-metaContent: "✅Poceros en Madrid. 🔝 Empresa de desatascos en Madrid 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
+metaContent: "✅Poceros en Madrid. 🔝 Instalamos y limpiamos tus tuberías en Madrid 24 horas. 📢 Contamos con los mejores precios. ☎️​ 695 126 600"
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Mejor sevicio de limpieza de tuberías en toda la comunidad de Madrid con inspección con cámara gratuita al finalizar la misma'
 detailDesc: '

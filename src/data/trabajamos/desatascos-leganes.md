@@ -3,7 +3,7 @@ id: 'service-13'
 title: 'Poceros Leganes'
 mediumImage: 'renovation-lg.jpg'
 largeImage: 'desatascosleganes-md.jpg'
-metaContent: "✅Poceros en Leganés. 🔝 Empresa de desatascos en Leganés24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
+metaContent: "✅Poceros en Leganés. 🔝 Empresa de desatascos en Leganés 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
 detailBreadcrumbSubTitle: 'Single Service'
 detailBreadcrumbDesc: 'Construction of itself, because it is pain some proper style design occur are pleasure'
 detailSubTitle: 'Empresa de poceros en Fuenlabrada con los mejores precios. Llámanos y compruébalo'

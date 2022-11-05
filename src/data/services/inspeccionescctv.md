@@ -3,7 +3,7 @@ id: 'service-10'
 title: 'Inspecciones CCTV'
 mediumImage: 'inspeccionescctv-md.jpg'
 largeImage: 'inspeccionescctv-lg.jpg'
-metaContent: "✅Poceros en Madrid. 🔝 Empresa de desatascos en Madrid 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
+metaContent: "✅Poceros en Madrid. 🔝 Empresa de Inspecciones CCTV. 📢 Inspeccionamos tus tuberías con los mejores precios. ☎️​ 695 126 600"
 detailBreadcrumbSubTitle: 'Desatascos 24 Horas'
 detailBreadcrumbDesc: 'Empresa de destascos en Madrid con los mejores precios.'
 detailSubTitle: 'Cómo Poceros en Madrid realizamos todo tipo de Desatasco, Desatranco, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.'

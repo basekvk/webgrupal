@@ -3,7 +3,7 @@ id: 'service-07'
 title: 'Fosas Sépticas'
 
 mediumImage: 'fosassepticas-md.jpg'
-metaContent: "✅Poceros en Madrid. 🔝 Empresa de desatascos en Madrid 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
+metaContent: "✅Poceros en Madrid. 🔝 Instalamos y mantenemos tus fosas sépticas. 📢 Mejores precios del mercado. ☎️​ 695 126 600"
 
 largeImage: 'fosassepticas-lg.jpg'
 
