@@ -27,16 +27,16 @@ function ServicePage({
     return (
         <>
             <Head>
-                <title>Services - Oxybuild</title>
+                <title>Poceros en Madrid - Servicios Grupal SL</title>
                 <meta
                     name="description"
-                    content="OxyBuild - Construction React Next JS Template Industry, Products Manufacturing Company, building companies, architecture firms, and the like can take to their advantage by using OxyBuild - Construction React Next JS Template."
+                    content="✅Poceros en Madrid. 🔝 Empresa de desatascos en Madrid 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
                 />
             </Head>
             <Breadcrumb
-                subTitle="What we do"
-                title="Our Services"
-                desc="Construction of itself, because it is pain some proper style design occur are pleasure"
+                subTitle="Grupal SL"
+                title="Servicios"
+                desc="Poceros en Madrid. Desatascos, desatrancos, obras de pocería, reparación de arquetas, alcantarillado, servicios retroexcavadora, limpieza de tuberías"
             />
             <AboutTwo aboutItemsTwo={aboutItemsTwo} />
             <AllServices
@@ -44,11 +44,7 @@ function ServicePage({
                 serviceSectionItems={serviceSectionItems}
             />
             <BannerTwo bannerTwoItems={bannerTwoItems} />
-            <BrandOne brandItems={brandItems} />
-            <BannerFour
-                bannerFourItems={bannerFourItems}
-                bannerSection={bannerSection}
-            />
+           
             ;
             <Testimonial
                 testimonialItems={testimonialItems}
