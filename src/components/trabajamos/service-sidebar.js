@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import Link from 'next/link';
 import { Col } from 'react-bootstrap';
 import classes from './service.module.scss';
+import Image from 'next/image';
 
 function ServiceSidebar({ sidebarList, servicesSidebar }) {
     return (
