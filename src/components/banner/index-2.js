@@ -47,7 +47,9 @@ function BannerTwo({ bannerTwoItems }) {
                                     </div>
                                 </div>
                                 <div className={classes.sticker}>
-                                    <img
+                                    <Image
+                                        width={944}
+                                        height={110}
                                         src={bannerTwoItem?.stickerImage}
                                         alt={bannerTwoItem?.stickerAlt}
                                         className="img-full"

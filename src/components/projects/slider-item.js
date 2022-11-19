@@ -11,7 +11,11 @@ function ProjectSliderItem({ project }) {
         <div className="project-item">
             <Link href={linkPath}>
                 <a className="project-img">
-                    <img src={imagePath} alt={project?.title} />
+                    <Image 
+                    width={405}
+                    height={474}
+                    src={imagePath} 
+                    alt={project?.title} />
                 </a>
             </Link>
             <div className="project-content">

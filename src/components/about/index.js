@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import PropTypes from 'prop-types';
 import { Col, Container, Row } from 'react-bootstrap';
 import * as FaIcons from 'react-icons/fa';
@@ -28,13 +29,17 @@ function AboutOne({ aboutItems }) {
                             <Col lg={{ span: 6 }}>
                                 <div className={classes.img__wrap}>
                                     <div className={classes.pattern}>
-                                        <img
+                                        <Image
+                                            width={100}
+                                            height={100}
                                             src={aboutItem?.pattern}
                                             alt={aboutItem?.patternAlt}
                                         />
                                     </div>
                                     <div className={classes.img}>
-                                        <img
+                                        <Image
+                                            width={600}
+                                            height={600}
                                             src={aboutItem?.image}
                                             alt={aboutItem?.alt}
                                             className="img-full"
@@ -61,7 +66,9 @@ function AboutOne({ aboutItems }) {
                                             />
                                         </div>
                                         <div className={classes.experience_img}>
-                                            <img
+                                            <Image
+                                                width={100}
+                                                height={100}
                                                 src={aboutItem?.experienceImage}
                                                 alt={aboutItem?.experienceAlt}
                                             />

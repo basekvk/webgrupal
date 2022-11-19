@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import { Col, Container, Row } from 'react-bootstrap';
 import Link from 'next/link';
 import classes from './banner-2.module.scss';
+import Image from 'next/image';
 
 function BannerFive({ bannerTwoItems }) {
     return (
@@ -11,7 +12,9 @@ function BannerFive({ bannerTwoItems }) {
                     <Row className="g-0" key={bannerTwoItem.id}>
                         <Col lg={{ span: 6 }}>
                             <div className={classes.image}>
-                                <img
+                                <Image
+                                    width={939}
+                                    height={666}
                                     src={bannerTwoItem?.image}
                                     alt={bannerTwoItem?.alt}
                                     className="img-full"

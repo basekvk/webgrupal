@@ -33,8 +33,6 @@ function MyApp({ Component, pageProps }) {
     }, []);
     return (
         <Layout>
-            <GoogleAnalytics gaMeasurementId="G-0PHDQG7XCS" trackPageViews />
-            <Analytics />
             <Head>
                 <meta
                     name="google-site-verification"
@@ -74,6 +72,11 @@ function MyApp({ Component, pageProps }) {
                     content="width=device-width, initial-scale=1"
                 />
                 <link rel="icon" href="/favicon.png" />
+                <GoogleAnalytics
+                    gaMeasurementId="G-0PHDQG7XCS"
+                    trackPageViews
+                />
+                <Analytics />
             </Head>
             <Component {...pageProps} />
             <ScrollToTop />

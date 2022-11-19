@@ -11,7 +11,10 @@ function ProjectFullwidthItem({ project }) {
             <div className="project-item">
                 <Link href={linkPath}>
                     <a className="project-img">
-                        <img src={imagePath} alt={project?.title} />
+                        <Image
+                        width={845}
+                        height={564}
+                        src={imagePath} alt={project?.title} />
                     </a>
                 </Link>
                 <div className="project-content">

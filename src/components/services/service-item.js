@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import Link from 'next/link';
 import { IoAddSharp } from 'react-icons/io5';
 import classes from './service.module.scss';
+import Image from 'next/image';
 
 function ServiceItem({ service }) {
     const imagePath = `/images/services/${service?.slug}/${service?.mediumImage}`;
@@ -11,7 +12,9 @@ function ServiceItem({ service }) {
         <div className="service-item">
             <Link href={linkPath}>
                 <a className={classes.img}>
-                    <img
+                    <Image
+                        width={371}
+                        height={254}
                         className="img-full"
                         src={imagePath}
                         alt={service?.title}

@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import PropTypes from 'prop-types';
 import { Col } from 'react-bootstrap';
 import ProjectOverview from '../../project-overview';
@@ -12,14 +13,20 @@ function ProjectContent({ project, richTexts, projectsOverview }) {
             <div className={`${classes.banner} row g-0`}>
                 <Col md={{ span: 5 }} className="mb-max-sm-20">
                     <div className={classes.single_img}>
-                        <img src={imagePath} alt={project?.title} />
+                        <Image
+                        width={845}
+                        height={564} 
+                         src={imagePath}
+                        alt={project?.title} />
                     </div>
                 </Col>
                 <Col md={{ span: 7 }}>
                     <div className="group-img row g-0 mb-20">
                         <Col xs={{ span: 6 }}>
                             <div className={classes.single_img}>
-                                <img
+                                <Image
+                                width={845}
+                                height={564}
                                     src={project?.groupImageOne}
                                     alt={project?.title}
                                 />
@@ -27,7 +34,9 @@ function ProjectContent({ project, richTexts, projectsOverview }) {
                         </Col>
                         <Col xs={{ span: 6 }}>
                             <div className={classes.single_img}>
-                                <img
+                                <Image
+                                width={845}
+                                height={564}
                                     src={project?.groupImageTwo}
                                     alt={project?.title}
                                 />
@@ -37,7 +46,9 @@ function ProjectContent({ project, richTexts, projectsOverview }) {
                     <div className="group-img row g-0">
                         <Col xs={{ span: 7 }}>
                             <div className={classes.single_img}>
-                                <img
+                                <Image
+                                width={845}
+                                height={564}
                                     src={project?.groupImageThree}
                                     alt={project?.title}
                                 />
@@ -45,7 +56,9 @@ function ProjectContent({ project, richTexts, projectsOverview }) {
                         </Col>
                         <Col xs={{ span: 5 }}>
                             <div className={classes.single_img}>
-                                <img
+                                <Image
+                                width={845}
+                                height={564}
                                     src={project?.groupImageFour}
                                     alt={project?.title}
                                 />
