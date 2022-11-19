@@ -9,7 +9,9 @@ import HomePageServices from '../components/home-page/homepage-services';
 import LatestProject from '../components/home-page/latest-project';
 import Footer from '../components/layout/footer';
 import Team from '../components/team';
+import Partners from '../components/partners';
 import { getAllItems, getFeaturedItems } from '../lib/items-util';
+import BotonLlamada from '../components/botonllamada/BotonLlamada';
 
 import 'react-whatsapp-widget/dist/index.css';
 
@@ -27,6 +29,7 @@ function HomePage({
     teamItems,
     teamSectionItems,
     footerItems,
+    partnersItems,
 }) {
     return (
         <>
@@ -68,6 +71,10 @@ function HomePage({
                 textReplyTime="En breve te responderemos. Muchas gracias"
             />
 
+            <Partners partnersItems={partnersItems} />
+
+            <BotonLlamada />
+
             <Footer footerItems={footerItems} />
         </>
     );
@@ -94,6 +101,7 @@ export function getStaticProps() {
     const LatestBlog = getFeaturedItems(blogs);
     const newsletterItems = getAllItems('newsletter');
     const footerItems = getAllItems('footer');
+    const partnersItems = getAllItems('partners');
 
     return {
         props: {
@@ -114,6 +122,7 @@ export function getStaticProps() {
             blogs: LatestBlog,
             newsletterItems,
             footerItems,
+            partnersItems,
         },
     };
 }

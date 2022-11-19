@@ -1,10 +1,11 @@
 import classes from '../services/service-detail/index.module.scss';
+import classesTitle from '../trabajamos/trabajamos-detail/index.module.scss';
 
 function botonLlamada() {
     return (
         <>
             <h3
-                className={classes.desc}
+                className={classesTitle.subtitle}
                 style={{ fontSize: 30, textAlign: 'center' }}
             >
                 LLÁMANOS<br /> URGENCIAS 24 HORAS <br />
