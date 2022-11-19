@@ -47,7 +47,9 @@ function ServiceSidebar({ sidebarList, servicesSidebar }) {
                             alt={serviceSidebar?.widgetBannerAlt}
                         />
                     </div>
+                   
                 </div>
+                
             ))}
         </Col>
     );

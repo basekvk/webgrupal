@@ -4,7 +4,7 @@ import SwiperCore, { Navigation, Pagination, Autoplay } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import classes from './hero.module.scss';
 import 'swiper/swiper-bundle.css';
-import BotonLlamada from './../botonllamada/BotonLlamada';
+
 
 SwiperCore.use([Navigation, Pagination, Autoplay]);
 

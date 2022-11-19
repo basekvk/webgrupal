@@ -1,6 +1,7 @@
 ---
 id: 'service-07'
 title: 'Poceros Getafe'
+title2: 'Desatascos en Getafe'
 lugar: 'Getafe'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosgetafe-md.webp'

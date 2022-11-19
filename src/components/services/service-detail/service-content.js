@@ -5,13 +5,13 @@ import OurServices from './our-services';
 import BotonLlamada from './../../botonllamada/BotonLlamada';
 import Image from 'next/image';
 
-
 function ServiceContent({ service, richTexts, ourServices }) {
     const imagePath = `/images/services/${service?.slug}/${service?.largeImage}`;
 
     return (
         <>
             <Col lg={{ span: 9 }} className="pe-lg-45">
+                
                 <div className="banner">
                     <Image
                         width={845}
@@ -22,7 +22,7 @@ function ServiceContent({ service, richTexts, ourServices }) {
                     />
                 </div>
                 <div className={classes.content}>
-                    <h2 className={classes.title}>{service?.title}</h2>
+                    <h2 className={classes.title}>{service?.title2}</h2>
                     <h3 className={classes.subtitle}>
                         {service?.detailSubTitle}
                     </h3>
@@ -67,6 +67,13 @@ function ServiceContent({ service, richTexts, ourServices }) {
                         {service?.option9}
                     </p>
                 </div>
+                {/*PODEMOS INCLUIR CÓDIGO DESDE MARKDOWN*/}
+                <div
+                    className={classes.subtitle}
+                    dangerouslySetInnerHTML={{
+                        __html: service.parrafo1,
+                    }}
+                />
 
                 <OurServices ourServices={ourServices} />
                 <div lg={{ span: 12 }} className="container col-12 p-0">
@@ -76,8 +83,6 @@ function ServiceContent({ service, richTexts, ourServices }) {
         </>
     );
 }
-       
-
 
 ServiceContent.propTypes = {
     service: PropTypes.instanceOf(Object).isRequired,

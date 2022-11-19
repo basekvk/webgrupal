@@ -1,12 +1,13 @@
 ---
 id: 'service-01'
 title: 'Desatascos 24 Horas'
+title2: 'Desatrancos 24 Horas'
 metaContent: "✅Poceros en Madrid. 🔝 Empresa de desatascos en Madrid 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
 mediumImage: 'desatascos24horas-md.webp'
 largeImage: 'desatascos24horas-lg.webp'
 detailBreadcrumbSubTitle: 'Desatascos 24 Horas'
 detailBreadcrumbDesc: 'Empresa de desatascos en Madrid con los mejores precios.'
-detailSubTitle: 'Cómo Poceros en Madrid realizamos todo tipo de Desatascos, Desatrancos, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.'
+detailSubTitle: 'Grupal es una empresa de Poceros en Madrid, realizamos todo tipo de Desatascos, Desatrancos, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.'
 parrafo: "Desatascos urgentes en toda la Comunidad de Madrid y zonas aledañas"
 
 pregunta: "¿QUÉ HACEN LOS POCEROS?"
@@ -31,7 +32,7 @@ option6: '✅ Instalaciones deportivas con problemas en los desagües de las pis
 option7: '✅ Hoteles para el mantenimiento de sus instalaciones, queriendo dar siempre el mejor servicio a sus huéspedes.'
 option 8: '✅ Multinacionales para incidencias o mantenimiento de las instalaciones distribuidas en sus oficinas.'
 option 9: '✅ Naves industriales, que generan residuos que sin remedio se acumulan en sus arquetas produciendo atrancos.'
-
+parrafo1: '<h2>24 HORAS A TU SERVICIO</h2>'
 
 detailDesc: "Mantenemos activo los 365 días del año el servicio de desatascos 24 horas. En este servicio solucionamos cualquier tipo de incidencia a tiempo récord. Nuestra flota de vehículos, de pequeño, medio y gran tamaño, están equipados con la mejor de las tecnologías, se adapta a cualquier tipo de espacio. Disponemos de dos teléfonos de contacto las 24 horas, donde nuestros operarios están atentos a todas las llamadas que puedan entrar, para acudir de inmediato a cualquiera de las urgencia que se presente en cualquier hora del día o noche. "
 
