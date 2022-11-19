@@ -1,6 +1,7 @@
 ---
 id: 'service-04'
 title: 'Transporte de Resíduos'
+title2: 'Transporte de Resíduos'
 mediumImage: 'transporteresiduos-md.webp'
 largeImage: 'transporteresiduos-lg.webp'
 metaContent: "✅Poceros en Madrid. 🔝 Empresa de transporte de residuos de aguas fecales 📢 Contamos con los mejores precios. ☎️​ 695 126 600"

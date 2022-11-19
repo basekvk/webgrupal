@@ -1,6 +1,7 @@
 ---
 id: 'service-10'
 title: 'Inspecciones CCTV'
+title2: 'Inspección Tuberías con Cámara'
 mediumImage: 'inspeccionescctv-md.webp'
 largeImage: 'inspeccionescctv-lg.webp'
 metaContent: "✅Poceros en Madrid. 🔝 Empresa de Inspecciones CCTV. 📢 Inspeccionamos tus tuberías con los mejores precios. ☎️​ 695 126 600"

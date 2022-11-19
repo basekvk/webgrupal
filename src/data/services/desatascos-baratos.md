@@ -1,6 +1,7 @@
 ---
 id: 'service-06'
 title: 'Desatascos Baratos'
+title2: 'Desatrancos Baratos'
 mediumImage: 'desatascosbaratos-md.webp'
 metaContent: "✅Poceros en Madrid. 🔝 Empresa de desatascos en Madrid 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
 largeImage: 'desatascosbaratos-lg.webp'

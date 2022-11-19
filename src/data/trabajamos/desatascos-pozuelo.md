@@ -1,6 +1,7 @@
 ---
 id: 'service-09'
 title: 'Poceros Pozuelo'
+title2: 'Desatascos en Pozuelo'
 lugar: 'Pozuelo'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascospozuelo-md.webp'

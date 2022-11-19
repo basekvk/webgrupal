@@ -1,6 +1,7 @@
 ---
 id: 'service-10'
 title: 'Poceros Seseña'
+title2: 'Desatascos en Seseña'
 lugar: 'Seseña'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosseseña-md.webp'

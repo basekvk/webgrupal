@@ -1,6 +1,7 @@
 ---
 id: 'service-03'
 title: 'Inundaciones'
+title2: 'Bombeo de Agua en las Inundaciones'
 mediumImage: 'inundaciones-md.webp'
 largeImage: 'inundaciones-lg.webp'
 metaContent: "✅Poceros en Madrid. 🔝 Solucionamos tus inundaciones en Madrid 24 horas. 📢 Contamos con los mejores precios. ☎️​ 695 126 600"

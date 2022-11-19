@@ -1,6 +1,7 @@
 ---
 id: 'service-13'
-title: 'Poceros Leganes'
+title: 'Poceros Leganés'
+title2: 'Desatascos en Leganés'
 lugar: 'Leganés'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosleganes-md.webp'

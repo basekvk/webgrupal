@@ -1,7 +1,7 @@
 ---
 id: 'service-07'
 title: 'Fosas Sépticas'
-
+title2: 'Instalación y Mantenimiento Fosas Sépticas'
 mediumImage: 'fosassepticas-md.webp'
 metaContent: "✅Poceros en Madrid. 🔝 Instalamos y mantenemos tus fosas sépticas. 📢 Mejores precios del mercado. ☎️​ 695 126 600"
 

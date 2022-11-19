@@ -1,6 +1,7 @@
 ---
 id: 'service-11'
 title: 'Poceros Valdemoro'
+title2: 'Desatascos en Valdemoro'
 lugar: 'Valdemoro'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosvaldemoro-md.webp'

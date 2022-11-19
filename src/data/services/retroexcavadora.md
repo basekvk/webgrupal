@@ -1,6 +1,8 @@
 ---
 id: 'service-08'
 title: 'Servicios Retro-Excavadora'
+title2: 'Retro Excavadora'
+
 mediumImage: 'retroexcavadora-md.webp'
 largeImage: 'retroexcavadora-lg.webp'
 

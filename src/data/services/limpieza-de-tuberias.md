@@ -1,6 +1,7 @@
 ---
 id: 'service-02'
 title: 'Tuberías'
+title2: 'Limpieza de Tuberías'
 mediumImage: 'limpiezadetuberias-md.webp'
 largeImage: 'limpiezadetuberias-lg.webp'
 detailBreadcrumbSubTitle: 'Tuberías'

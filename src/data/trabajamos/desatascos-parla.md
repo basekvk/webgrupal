@@ -1,6 +1,7 @@
 ---
 id: 'service-08'
 title: 'Poceros Parla'
+title2: 'Desatascos en Parla'
 lugar: 'Parla'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosparla-md.webp'

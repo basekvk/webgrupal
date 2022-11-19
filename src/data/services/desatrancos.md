@@ -1,6 +1,7 @@
 ---
 id: 'service-05'
 title: 'Desatrancos'
+title2: 'Empresa de Desatrancos'
 mediumImage: 'desatrancos-md.webp'
 metaContent: "✅Poceros en Madrid. 🔝 Empresa de desatrancos en Madrid 24 horas. 📢 Desatrancos baratos con los mejores precios. ☎️​ 695 126 600"
 largeImage: 'desatrancos-lg.jpgwebp'

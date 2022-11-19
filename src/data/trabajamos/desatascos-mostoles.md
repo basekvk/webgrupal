@@ -1,6 +1,7 @@
 ---
 id: 'service-13'
 title: 'Poceros Móstoles'
+title2: 'Desatascos en Móstoles'
 lugar: 'Móstoles'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosmostoles-md.webp'

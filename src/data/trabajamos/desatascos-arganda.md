@@ -1,6 +1,7 @@
 ---
 id: 'service-04'
 title: 'Poceros Arganda'
+title2: 'Desatascos en Arganda'
 lugar: 'Arganda'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosarganda-md.webp'

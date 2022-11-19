@@ -1,6 +1,7 @@
 ---
 id: 'service-05'
 title: 'Poceros Navalcarnero'
+title2: 'Desatascos en Navalcarnero'
 lugar: 'Navalcarnero'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosnavalcarnero-md.webp'

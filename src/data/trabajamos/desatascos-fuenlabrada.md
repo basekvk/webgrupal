@@ -1,6 +1,7 @@
 ---
 id: 'service-06'
 title: 'Poceros Fuenlabrada'
+title2: 'Desatascos en Fuenlabrada'
 lugar: 'Fuenlabrada'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosfuenlabrada-md.webp'

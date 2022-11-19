@@ -1,6 +1,7 @@
 ---
 id: 'service-03'
 title: 'Poceros Aranjuez'
+title2: 'Desatascos en Aranjuez'
 lugar: 'Aranjuez'
 mediumImage: 'renovation-lg.webp'
 largeImage: 'desatascosaranjuez-md.webp'
