@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import Link from 'next/link';
 import { Col } from 'react-bootstrap';
+import Image from 'next/image';
 
 function ProjectFullwidthItem({ project }) {
     const imagePath = `/images/projects/${project?.slug}/${project?.image}`;
