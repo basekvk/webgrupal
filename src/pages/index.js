@@ -57,7 +57,7 @@ function HomePage({
 
             <Team teamItems={teamItems} teamSectionItems={teamSectionItems} />
 
-            
+            <GoogleMyBusiness />
 
 
             <WhatsAppWidget

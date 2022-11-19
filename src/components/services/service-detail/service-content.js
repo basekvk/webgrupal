@@ -39,15 +39,33 @@ function ServiceContent({ service, richTexts, ourServices }) {
                     </h3>
                     <p className={classes.desc}>{service?.descripcion2}</p>
                     <p className={classes.desc}>{service?.descripcion3}</p>
-                    <p className={classes.desc}>{service?.option1}</p>
-                    <p className={classes.desc}>{service?.option2}</p>
-                    <p className={classes.desc}>{service?.option3}</p>
-                    <p className={classes.desc}>{service?.option4}</p>
-                    <p className={classes.desc}>{service?.option5}</p>
-                    <p className={classes.desc}>{service?.option6}</p>
-                    <p className={classes.desc}>{service?.option7}</p>
-                    <p className={classes.desc}>{service?.option8}</p>
-                    <p className={classes.desc}>{service?.option9}</p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option1}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option2}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option3}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option4}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option5}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option6}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option7}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option8}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.option9}
+                    </p>
                 </div>
 
                 <OurServices ourServices={ourServices} />
