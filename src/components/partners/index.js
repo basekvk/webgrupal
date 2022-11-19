@@ -27,7 +27,7 @@ function Partners({ partnersItems }) {
                     loop={false}
                     breakpoints={{
                         1200: {
-                            slidesPerView: 2,
+                            slidesPerView: 3,
                             slidesPerColumn: 2,
                             slidesPerGroup: 1,
                             slidesPerColumnFill: 'row',
