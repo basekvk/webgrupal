@@ -7,7 +7,7 @@ function botonLlamada() {
                 className={classes.desc}
                 style={{ fontSize: 30, textAlign: 'center' }}
             >
-                LLÁMANOS URGENCIAS 24 HORAS <br />
+                LLÁMANOS<br /> URGENCIAS 24 HORAS <br />
                 👇
             </h3>
             <a href="tel:+34915771849">

@@ -7,6 +7,8 @@ import { Analytics } from '@vercel/analytics/react';
 import { GoogleAnalytics } from 'nextjs-google-analytics';
 import React, { useEffect } from 'react';
 import { useRouter, Router } from 'next/router';
+import Script from 'next/script';
+
 
 function MyApp({ Component, pageProps }) {
     const router = useRouter();
@@ -75,6 +77,19 @@ function MyApp({ Component, pageProps }) {
             </Head>
             <Component {...pageProps} />
             <ScrollToTop />
+            <Script
+                src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"
+                strategy="afterInteractive"
+            />
+            <Script id="google-analytics" strategy="afterInteractive">
+                {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'GA_MEASUREMENT_ID');
+        `}
+            </Script>
         </Layout>
     );
 }

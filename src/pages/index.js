@@ -10,10 +10,12 @@ import LatestProject from '../components/home-page/latest-project';
 import Footer from '../components/layout/footer';
 import Team from '../components/team';
 import { getAllItems, getFeaturedItems } from '../lib/items-util';
+import loadable from '@loadable/component';
+const ComponentGoogle = loadable(() => import('../components/GoogleMyBusiness'));
 
 import 'react-whatsapp-widget/dist/index.css';
 
-import GoogleMyBusiness from '../components/GoogleMyBusiness';
+
 
 function HomePage({
     heroItems,
@@ -39,7 +41,7 @@ function HomePage({
                     content=" GRUPAL SL empresa especializada en desatascos, desatrancos, obras de pocería, fosas sépticas y servicios de retroexcavadora."
                 />
                 <meta name="robots" content="index, follow" />
-                <meta keywords="poceros madrid, desatascos tuberias, desatascos madrid, desatascos, desatrancos madrid, desatrancos, desatrancos Toledo , desatrancos en Madrid, desatrancos urgentes Madrid, limpieza de tuberias,  desatranco Illescas, desatascos en Madrid, pocería, desatrancos baratos Madrid, empresas de desatrancos, desatrancos Alcalá de Henares, poceros en Getafe, poceros en Griñon, poceros en Humanes, poceros en Móstoles, poceros en Navalcarnero, poceros en Parla, poceros en Pinto, Poceros en Valdemoro, poceros en Pozuelo, poceros en Majadahonda" />              
+                <meta keywords="poceros madrid, desatascos tuberias, desatascos madrid, desatascos, desatrancos madrid, desatrancos, desatrancos Toledo , desatrancos en Madrid, desatrancos urgentes Madrid, limpieza de tuberias,  desatranco Illescas, desatascos en Madrid, pocería, desatrancos baratos Madrid, empresas de desatrancos, desatrancos Alcalá de Henares, poceros en Getafe, poceros en Griñon, poceros en Humanes, poceros en Móstoles, poceros en Navalcarnero, poceros en Parla, poceros en Pinto, Poceros en Valdemoro, poceros en Pozuelo, poceros en Majadahonda" />
             </Head>
             <Hero heroItems={heroItems} />
             <BannerOne bannerItems={bannerItems} />
@@ -57,8 +59,7 @@ function HomePage({
 
             <Team teamItems={teamItems} teamSectionItems={teamSectionItems} />
 
-            <GoogleMyBusiness />
-
+            <ComponentGoogle />
 
             <WhatsAppWidget
                 phoneNumber="+34680394539"
