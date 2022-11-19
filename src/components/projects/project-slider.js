@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import Link from 'next/link';
+import Image from 'next/image';
 
 function ProjectSlider({ project }) {
     const imagePath = `/images/projects/${project?.slug}/${project?.image}`;
@@ -9,7 +10,12 @@ function ProjectSlider({ project }) {
         <div className="project-item">
             <Link href={linkPath}>
                 <a className="project-img">
-                    <img src={imagePath} alt={project?.title} />
+                    <Image
+                        width={405}
+                        height={474}
+                        src={imagePath}
+                        alt={project?.title}
+                    />
                 </a>
             </Link>
             <div className="project-content">
