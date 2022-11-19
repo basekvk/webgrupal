@@ -9,6 +9,9 @@ detailBreadcrumbDesc: 'Empresa de desatascos en Madrid con los mejores precios.'
 detailSubTitle: 'Cómo Poceros en Madrid realizamos todo tipo de Desatascos, Desatrancos, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.'
 parrafo: "Desatascos urgentes en toda la Comunidad de Madrid y zonas aledañas"
 
+pregunta: "¿Qué hacemos como poceros?"
+pregunta2: "NUESTROS SERVICIOS DE DESATASCOS URGENTES EN MADRID: "
+
 descripcion: 'Cómo Poceros en Madrid realizamos todo tipo de Desatasco, Desatranco, Obra de Pocería, Inspección con cámaras, limpieza de Arquetas, vaciado o limpieza de Fosas Sépticas.
 
 Tenemos una cuadrilla de Poceros en Madrid para atender todo tipo de Urgencias las 24 horas del Día. Somos una empresa de desatrancos con mas de 25 años de experiencia. Trabajamos para particulares, empresas, comunidades de vecinos, administradores de fincas, etc.'
@@ -16,7 +19,7 @@ Tenemos una cuadrilla de Poceros en Madrid para atender todo tipo de Urgencias l
 descripcion1: 
 
 
-descripcion2: "NUESTROS SERVICIOS DE DESATASCOS URGENTES EN MADRID: "
+descripcion2: 
 
 option1: '- Pisos y viviendas en general con problemas de atascos en bañeras, fregaderos o inodoros.'
 

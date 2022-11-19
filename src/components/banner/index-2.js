@@ -13,8 +13,8 @@ function BannerTwo({ bannerTwoItems }) {
                         <Col lg={{ span: 6 }}>
                             <div className={classes.image}>
                                 <Image
-                                width={939}
-                                height={666}
+                                    width={939}
+                                    height={666}
                                     src={bannerTwoItem?.image}
                                     alt={bannerTwoItem?.alt}
                                     className="img-full"
@@ -37,7 +37,7 @@ function BannerTwo({ bannerTwoItems }) {
                                         {bannerTwoItem?.desc}
                                     </p>
                                     <div className={classes.hero_btn__wrap}>
-                                        <Link href="/projects">
+                                        <Link href="/projects/galeria">
                                             <a
                                                 className={`me-20 ${classes.btn} ${classes.btn_primary} ${classes.btn_hover__white}`}
                                             >
