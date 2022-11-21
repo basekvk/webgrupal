@@ -6,6 +6,7 @@ import ServiceDetail from '../../components/trabajamos/trabajamos-detail';
 import { getAllItems, getItemData, getItemsFiles } from '../../lib/items-util';
 
 
+
 function ServiceDetailsPage({
     service,
     sidebarList,
@@ -16,7 +17,10 @@ function ServiceDetailsPage({
     return (
         <>
             <Head>
-                <title>{service.title}【695 126 600】Desatascos {service.lugar} - GRUPAL</title>
+                <title>
+                    {service.title}【695 126 600】Desatascos {service.lugar} -
+                    GRUPAL
+                </title>
                 <meta name="description" content={service.metaContent} />
             </Head>
 
@@ -32,6 +36,8 @@ function ServiceDetailsPage({
                 richTexts={richTexts}
                 servicesSidebar={servicesSidebar}
             />
+
+           
 
             <Footer footerItems={footerItems} />
         </>

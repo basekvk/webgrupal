@@ -11,7 +11,6 @@ function ServiceContent({ service, richTexts, ourServices }) {
     return (
         <>
             <Col lg={{ span: 9 }} className="pe-lg-45">
-                
                 <div className="banner">
                     <Image
                         width={845}
@@ -29,16 +28,26 @@ function ServiceContent({ service, richTexts, ourServices }) {
                     <h3 className={classes.desc} style={{ fontSize: 30 }}>
                         {service?.pregunta}
                     </h3>
-                    <p className={classes.desc}>{service?.descripcion}</p>
-                    <p className={classes.desc}>{service?.detailDesc}</p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.descripcion}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.detailDesc}
+                    </p>
 
-                    <p className={classes.desc}>{service?.descripcion1}</p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.descripcion1}
+                    </p>
 
                     <h3 className={classes.desc} style={{ fontSize: 30 }}>
                         {service?.pregunta2}
                     </h3>
-                    <p className={classes.desc}>{service?.descripcion2}</p>
-                    <p className={classes.desc}>{service?.descripcion3}</p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.descripcion2}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.descripcion3}
+                    </p>
                     <p className={classes.desc} style={{ fontSize: 20 }}>
                         {service?.option1}
                     </p>

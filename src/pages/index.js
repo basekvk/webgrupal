@@ -17,6 +17,7 @@ import 'react-whatsapp-widget/dist/index.css';
 
 import GoogleMyBusiness from '../components/GoogleMyBusiness';
 
+
 function HomePage({
     heroItems,
     bannerItems,
@@ -59,6 +60,7 @@ function HomePage({
             <BannerTwo bannerTwoItems={bannerTwoItems} />
 
             <Team teamItems={teamItems} teamSectionItems={teamSectionItems} />
+            
 
             <GoogleMyBusiness />
 

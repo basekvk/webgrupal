@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import PropTypes from 'prop-types';
+import Acordeon from '../components/acordeon';
 import Breadcrumb from '../components/breadcrumb';
 import Contact from '../components/contact';
 import Footer from '../components/layout/footer';
@@ -25,6 +26,7 @@ function ContactPage({ contactItems, newsletterItems, footerItems }) {
                 desc="Si quieres un presupuesto gratuito o cualquier tipo de información así como cualquier duda o pregunta, este es tu sitio."
             />
             <Contact contactItems={contactItems} />
+            <Acordeon />
             <Newsletter newsletterItems={newsletterItems} />
             <Footer footerItems={footerItems} />
         </>
