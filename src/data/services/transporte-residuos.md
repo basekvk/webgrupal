@@ -22,7 +22,7 @@ option2: "2º –  El equipo técnico una vez conozca el tipo de residuo a recog
 
 option3: "3º –  Recogida, los operarios acudirán a la zona de trabajo, el día y a la hora acordada con el cliente para la sustracción de los residuos. "
 
-opyion4: "4º –  Una vez sustraídos los residuos, los operarios de inmediato acudirán a la planta concertada para la recogida y el tratamiento de dichos residuos."
+option4: "4º –  Una vez sustraídos los residuos, los operarios de inmediato acudirán a la planta concertada para la recogida y el tratamiento de dichos residuos."
 
 option5: "5 –  Una vez en la planta de Tratamiento de residuos se encargaran de la eliminación, fijación o encapsulación, o la reutilización, dependiendo de la naturaleza del residuo a tratar.  "
 

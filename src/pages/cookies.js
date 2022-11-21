@@ -13,13 +13,13 @@ function cookies({ newsletterItems, footerItems }) {
                 <title>Página no Encontrada - Error 404 - Grupal SL</title>
                 <meta
                     name="description"
-                    content="Si has llegado hasta aquí es que has introduciodo mal la url o que la página que buscas no existe."
+                    content="Si has llegado hasta aquí es que has introducido mal la url o que la página que buscas no existe."
                 />
             </Head>
             <Breadcrumb
                 subTitle="No Encontrada"
                 title="404"
-                desc="Si has llegado hasta aquí es que has introduciodo mal la url o que la página que buscas no existe."
+                desc="Si has llegado hasta aquí es que has introducido mal la url o que la página que buscas no existe."
             />
             <Error404 />
             <Newsletter newsletterItems={newsletterItems} />
