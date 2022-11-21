@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import { Col } from 'react-bootstrap';
 
+
 import classes from './index.module.scss';
 import OurServices from './our-services';
 import BotonLlamada from '../../botonllamada/BotonLlamada';
@@ -29,16 +30,26 @@ function ServiceContent({ service, richTexts, ourServices }) {
                     <h3 className={classes.desc} style={{ fontSize: 30 }}>
                         {service?.pregunta}
                     </h3>
-                    <p className={classes.desc}>{service?.descripcion}</p>
-                    <p className={classes.desc}>{service?.detailDesc}</p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.descripcion}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.detailDesc}
+                    </p>
 
-                    <p className={classes.desc}>{service?.descripcion1}</p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.descripcion1}
+                    </p>
 
                     <h3 className={classes.desc} style={{ fontSize: 30 }}>
                         {service?.pregunta2}
                     </h3>
-                    <p className={classes.desc}>{service?.descripcion2}</p>
-                    <p className={classes.desc}>{service?.descripcion3}</p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.descripcion2}
+                    </p>
+                    <p className={classes.desc} style={{ fontSize: 20 }}>
+                        {service?.descripcion3}
+                    </p>
                     <p className={classes.desc} style={{ fontSize: 20 }}>
                         {service?.option1}
                     </p>
@@ -67,6 +78,8 @@ function ServiceContent({ service, richTexts, ourServices }) {
                         {service?.option9}
                     </p>
                 </div>
+
+                
 
                 <OurServices ourServices={ourServices} />
                 <div lg={{ span: 12 }} className="container col-12 p-0">
