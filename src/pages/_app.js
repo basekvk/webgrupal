@@ -73,7 +73,7 @@ function MyApp({ Component, pageProps }) {
                     name="viewport"
                     content="width=device-width, initial-scale=1"
                 />
-                <link rel="icon" href="/favicon.png" />
+                <link rel="icon" href="/favicon.ico" />
                 <GoogleAnalytics
                     gaMeasurementId="G-0PHDQG7XCS"
                     trackPageViews
