@@ -2,7 +2,7 @@
 id: 'about-01'
 sectionTitle: 'Empresa de poceros en Madrid'
 sectionSubtitle: 'Quiénes Somos'
-sectionDesc: 'Grupal es una empresa líder de servicios de pocería en Madrid. Somos expertos en limpieza de saneamiento y mantenimiento de pozos de aguas residuales, para su correcto funcionamiento. Nuestro trabajo, trata principalmente del sistema de saneamiento y depuración de aguas residuales, uno de los principales trabajos de un fontanero, que abarca muchas más funciones dentro de la construcción, limpieza y mantenimiento de pozos, tuberías o acometidas de agua.
+sectionDesc: 'Grupal es una empresa líder de servicios de pocería en Madrid. Somos expertos en limpieza de saneamiento y mantenimiento de pozos de aguas residuales, para su correcto funcionamiento. Nuestro trabajo, trata principalmente del sistema de saneamiento y depuración de aguas residuales, uno de los principales trabajos de un pocero, que abarca muchas más funciones dentro de la construcción, limpieza y mantenimiento de pozos, tuberías o acometidas de agua.
 
 El tratamiento de las aguas residuales es una parte importante para mantener el suministro de agua limpia. La limpieza del alcantarillado de Grupal puede ayudar a mantener su zona limpia y libre de bacterias dañinas, al tiempo que mejora la calidad general del agua.
 
